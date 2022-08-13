@@ -21,3 +21,5 @@ The back and forward buttons are used to move across the pages and look at other
 
 Finally, the user may click on the history button to access all of the past block websites in another GUI. The user may click on any of the past 
 block websites button to reblock the website if it is not currently block. 
+
+This application may only work on Windows or Linux. 
