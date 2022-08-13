@@ -23,3 +23,4 @@ Finally, the user may click on the history button to access all of the past bloc
 block websites button to reblock the website if it is not currently block. 
 
 This application may only work on Windows or Linux. 
+This application also provide a copy of a host file (HOSTS2) and you may use it to test it if you want. 
